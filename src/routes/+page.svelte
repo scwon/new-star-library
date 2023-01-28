@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		장훈아 생일 축하해<br />테스트 페이지임
 	</h1>
 
 	<h2>
