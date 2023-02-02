@@ -3,14 +3,16 @@
   "name": "새마을운동 빛나는 도시락",
   "icons": [
     {
-      "src": "%sveltekit.assets%/favicon.ico",
+      "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     }
   ],
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "orientation": "portrait",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "description": "도시락 해커톤"
 }
