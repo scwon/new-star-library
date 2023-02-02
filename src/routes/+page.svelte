@@ -2,6 +2,7 @@
 	import Counter from './Counter.svelte';
 	import welcome from '$lib/images/svelte-welcome.webp';
 	import welcome_fallback from '$lib/images/svelte-welcome.png';
+	import mani from '$lib/manifest.json';
 </script>
 
 <svelte:head>
@@ -17,7 +18,7 @@
 				<img src={welcome_fallback} alt="Welcome" />
 			</picture>
 		</span>
-
+		{mani.name}
 		장훈아 생일 축하해<br />테스트 페이지임
 	</h1>
 
