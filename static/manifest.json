@@ -1,6 +1,6 @@
 {
-  "short_name": "새빛도",
-  "name": "새마을운동 빛나는 도시락",
+  "short_name": "별도서관",
+  "name": "별도서관",
   "icons": [
     {
       "src": "favicon.png",
@@ -11,8 +11,8 @@
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
-  "orientation": "portrait",
-  "theme_color": "#000000",
-  "background_color": "#ffffff",
+  "orientation": "fullscreen",
+  "theme_color": "#11053C",
+  "background_color": "#11053C",
   "description": "도시락 해커톤"
 }
